@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mallinathpatil27
-- 👀 I’m interested in ...Bigdata
-- 🌱 I’m currently learning ...Bigdata/AWS technology
+- 👀 I’m interested in ...Bigdata technology
+- 🌱 I’m currently working and learning on ...Bigdata/AWS technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mallinathpatil27@gmail.com
 
